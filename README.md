@@ -6,7 +6,6 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,MEARN**
 
 - 📫 How to reach me **8282alishakhan@gmail.com**
-- Portfolio Link **https://khanalisha.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

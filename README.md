@@ -1,4 +1,4 @@
-<p>Hi 👋,</p>
+<p width="50px">Hi 👋,</p>
 <h1>I'm Alisha khan</h1>
 <h1>About me</h1>
 <p>An inspiring full-stack web developer is a versatile and creative professional who excels in both front-end and back-end development. They blend technical prowess with a deep understanding of user experience ,user-friendly websites..</p>

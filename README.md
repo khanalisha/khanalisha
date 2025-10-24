@@ -1,7 +1,7 @@
 <p>Hi <span style="font-size: 5em">👋</span>,</p>
-<h1>I'm Alisha khan</h1>
+<h1>I'm Alisha Iqubal</h1>
 <h1>About me</h1>
-<p>An inspiring full-stack web developer is a versatile and creative professional who excels in both front-end and back-end development. They blend technical prowess with a deep understanding of user experience ,user-friendly websites..</p>
+<p>Full Stack Web Developer | React, Node.js, AWS | Passionate about building scalable web apps and improving user experiences. Previously @ Ecompapi Digital. Let’s connect!</p>
 
 
 

@@ -37,7 +37,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanalisha&show_icons=true&theme=react&hide_border=true&count_private=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanalisha&theme=react&hide_border=true" height="160px" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanalisha&theme=react&hide_border=true" height="160px" /> -->
 </p>
 
 <p align="center">

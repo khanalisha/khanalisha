@@ -1,3 +1,6 @@
+<!-- 💻 Girl Coding Animation in Top Right Corner -->
+<img align="right" alt="Coding girl" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Alisha%20Iqubal!%20👋&fontSize=40&fontAlignY=40" />
 </p>
@@ -48,4 +51,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
+
 

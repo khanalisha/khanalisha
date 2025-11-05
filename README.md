@@ -1,12 +1,9 @@
-<!-- 👩‍💻 Girl Coding Animation - Top Right -->
-<img align="right" alt="Coding Girl" width="280" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" style="margin-top:-50px;"/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Alisha%20Iqubal!%20👋&fontSize=40&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisha-Iqubal-9a561a257/">
+  <a href="https://www.linkedin.com/in/alisha-khan-9a561a257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:8282alishakhan@gmail.com">
@@ -51,5 +48,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
-

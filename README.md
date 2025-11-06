@@ -38,7 +38,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanalisha&show_icons=true&theme=react&hide_border=true&count_private=true" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=khanalisha&theme=react&hide_border=true" height="160px" />
+  <!-- <img src="https://streak-stats.demolab.com?user=khanalisha&theme=react&hide_border=true" height="160px" /> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=khanalisha&theme=react&hide_border=true" />
+  
 </p>
 
 <p align="center">
